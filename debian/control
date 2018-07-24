@@ -1,13 +1,13 @@
-Source: artwork-wallpapers-netrunner-17.01-core
+Source: artwork-wallpapers-netrunner-18.08-core
 Section: misc
 Priority: optional
 Maintainer: Rohan Garg <rohan@kde.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
-Homepage: https://github.com/netrunner-artwork/artwork-wallpapers-netrunner-17.01-core
+Homepage: https://github.com/netrunner-artwork/artwork-wallpapers-netrunner-18.08-core
 
-Package: artwork-wallpapers-netrunner-17.01-core
+Package: artwork-wallpapers-netrunner-17.08-core
 Architecture: all
 Depends: ${misc:Depends}
-Description: wallpapers for Netrunner Core 17.01
- This package provides wallpapers for Netrunner Core 17.01
+Description: wallpapers for Netrunner Core 18.08
+ This package provides wallpapers for Netrunner Core 18.08
