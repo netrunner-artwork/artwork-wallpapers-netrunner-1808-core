@@ -9,5 +9,6 @@ Homepage: https://github.com/netrunner-artwork/artwork-wallpapers-netrunner-18.0
 Package: artwork-wallpapers-netrunner-18.08-core
 Architecture: all
 Depends: ${misc:Depends}
+Provides: artwork-wallpapers-netrunner-core
 Description: wallpapers for Netrunner Core 18.08
  This package provides wallpapers for Netrunner Core 18.08
